@@ -1,5 +1,7 @@
 # 67 Meme Page 🎭
 
+**Live Demo:** https://67-black-three.vercel.app/
+
 A fun React + Vite web app that splits the screen vertically into **6** and **7**.  
 Each side features a hand illustration with smooth hover animations, tilt effects, speech synthesis (“six” or “seven”).
 
