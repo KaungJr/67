@@ -45,7 +45,7 @@ Here’s what it looks like:
 
 ### 2) get the code, install deps, and start the dev server
 
-git clone https://github.com/KaungJr/67.git
-cd 67
-npm install
-npm run dev
+- git clone https://github.com/KaungJr/67.git
+- cd 67
+- npm install
+- npm run dev
