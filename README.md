@@ -19,7 +19,9 @@ Each side features a hand illustration with smooth hover animations, tilt effect
 
 Here’s what it looks like:
 
-![Meme Page Screenshot](src/assets/site.png)
+![Meme Page Screenshot]
+<img width="753" height="953" alt="site" src="https://github.com/user-attachments/assets/6d961481-97a1-4022-9328-d1598d6dfd8d" />
+
 
 ---
 
