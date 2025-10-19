@@ -1,4 +1,4 @@
-# 6 vs 7 Meme Page 🎭
+# 67 Meme Page 🎭
 
 A fun React + Vite web app that splits the screen vertically into **6** and **7**.  
 Each side features a hand illustration with smooth hover animations, tilt effects, speech synthesis (“six” or “seven”).
